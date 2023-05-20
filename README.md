@@ -55,7 +55,7 @@ I enjoy sharing my knowledge and insights through writing. Check out my blog for
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSaksham&show_icons=true)
 
 Thanks for visiting my profile! I'm excited to connect and collaborate with fellow developers. Let's build amazing things together!
 
