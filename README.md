@@ -35,9 +35,9 @@ I'm an advocate for open-source software and have contributed to several project
 
 I'm always open to new opportunities and collaborations. If you'd like to discuss a potential project, have any questions, or just want to say hi, feel free to reach out to me via:
 
-- Email: [Your Email](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourhandle)
+- Email: [Email](mailto:sakshamgupta.ai@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saksham-gupta-00a98221a/)
+- Twitter: [Twitter](https://twitter.com/0xSaksham)
 
 ## Blog
 
