@@ -23,19 +23,13 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are a few notable projects I've worked on:
 
-- **Project 1:** [Project Name](link-to-project) - A brief description of the project and your contributions.
-- **Project 2:** [Project Name](link-to-project) - A brief description of the project and your contributions.
-- **Project 3:** [Project Name](link-to-project) - A brief description of the project and your contributions.
+- **Project 1:** [Litmus Chaos](https://github.com/litmuschaos/litmus-website-2) - LitmusChaos is an open-source Chaos Engineering platform that enables teams to identify weaknesses & potential outages in infrastructures by inducing chaos tests in a controlled way. Developers & SREs can practice Chaos Engineering with LitmusChaos as it is easy to use, based on modern Chaos Engineering principles & community collaboration. It is 100% open source & a CNCF project.
 
 For more projects and code samples, please check out my [portfolio website]((https://portfolio-0xsaksham.vercel.app/)).
 
 ## Open Source Contributions
 
-I'm an advocate for open-source software and have contributed to several projects. Some of my notable contributions include:
-
-- **Contribution 1:** [Project Name](link-to-contribution) - Brief description of your contribution.
-- **Contribution 2:** [Project Name](link-to-contribution) - Brief description of your contribution.
-- **Contribution 3:** [Project Name](link-to-contribution) - Brief description of your contribution.
+I'm an advocate for open-source software and have contributed to several projects.
 
 ## Get in Touch
 
@@ -47,11 +41,9 @@ I'm always open to new opportunities and collaborations. If you'd like to discus
 
 ## Blog
 
-I enjoy sharing my knowledge and insights through writing. Check out my blog for articles on React, frontend development, and other related topics. Here are a few popular posts:
+I enjoy sharing my knowledge and insights through writing. Check out my blog for articles on React, front-end development, and other related topics. Here are a few popular platforms and posts:
 
-- [Article 1](link-to-article) - Brief description or key points covered in the article.
-- [Article 2](link-to-article) - Brief description or key points covered in the article.
-- [Article 3](link-to-article) - Brief description or key points covered in the article.
+- [Twitter](https://twitter.com/0xSaksham) - I upload Content Related to Frontend and Share my Learnings online.
 
 ## GitHub Stats
 
