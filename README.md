@@ -52,6 +52,4 @@ I enjoy sharing my knowledge and insights through writing. Check out my blog for
 Thanks for visiting my profile! I'm excited to connect and collaborate with fellow developers. Let's build amazing things together!
 
 
-[![0xSaksham's GitHub | Stats](https://stats.quine.sh/0xSaksham/github?theme=dark)](https://quine.sh)
-[![0xSaksham's GitHub | Languages Over Time](https://stats.quine.sh/0xSaksham/languages-over-time?theme=dark)](https://quine.sh)
-[![0xSaksham's GitHub | Topics Over Time](https://stats.quine.sh/0xSaksham/topics-over-time?theme=dark)](https://quine.sh)
+
