@@ -1,8 +1,8 @@
 # Hi there, I'm Saksham Gupta  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 👨‍💻 I’m a Frontend Web Developer.
-- 📚 I’m currently learning Machine Learning and Artificial Intelligence using Python.
+- 👨‍💻 I’m a Frontend Web Developer and a Rustacean 🦀.
+- 📚 I’m currently learning Rust and Blockchain Development.
 - 💪🏼 Future Goals: Collaborate first with open-source and community.
 
 <br />
