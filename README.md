@@ -1,18 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saksham Gupta
-=====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saksham Gupta
 
-Indie Hacker building production-ready apps
--------------------------------------------
+## Indie Hacker building production-ready apps
 
 I am a blockchain developer with expertise in StarkNet and Cairo, adept at setting up dev environments, problem-solving, and community engagement, and have broad tech interests including Linux. Communicates effectively with humor.
 
-* 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [0xsaksham.me](http://0xsaksham.me)
-* ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:sakshamgupta.ai@gmail.com)
-* 🚀  I'm currently working on [1-percent-better](http://1-percent-better.netlify.app)
-* 🧠  I'm learning Cairo Smart Contracts and Building on Starknet
-* 🤝  I'm open to collaborating on Shipping fast and Prod Ready apps on L2 Networks
-* ⚡  I like my coffee without sugar and milk
+- 🌍  I'm based in New Delhi, India
+- 🖥️  See my portfolio at [0xsaksham.me](http://0xsaksham.me)
+- ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:sakshamgupta.ai@gmail.com)
+- 🚀  I'm currently working on [1-percent-better](http://1-percent-better.netlify.app)
+- 🧠  I'm learning Cairo Smart Contracts and Building on Starknet
+- 🤝  I'm open to collaborating on Shipping fast and Prod Ready apps on L2 Networks
+- ⚡  I like my coffee without sugar and milk
 
 <a href="https://www.github.com/0xsaksham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/0xsaksham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/0xsaksham" target="_blank" rel="noreferrer"><img
@@ -149,7 +147,11 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/github-snake.svg" />
+</picture>
 
 ###
 
