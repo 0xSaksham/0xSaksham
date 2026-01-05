@@ -5,12 +5,21 @@
 I am a Backend developer with expertise in Java SpringBoot and Angular, adept at setting up dev environments, problem-solving, and community engagement, and have broad tech interests including Linux. Communicates effectively with humor.
 
 - 🌍  I'm based in New Delhi, India
+
 - 🖥️  See my portfolio at [0xsaksham.me](http://0xsaksham.me)
+
 - ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:saksham.lets.talk@gmail.com)
-- 🚀  I'm currently working on [expense-tracker](https://github.com/0xSaksham/expense-tracker)
+<!-- LATEST_PROJECT_START -->
+- 🚀 I'm currently working on [expense-tracker](https://github.com/0xSaksham/expense-tracker)
+<!-- LATEST_PROJECT_END -->
 - 🧠  I'm learning DevOps and Creating Full Stack Java and Angular Project
+
 - 🤝  I'm open to collaborating on Shipping fast and Prod Ready apps on SpringBoot
+
 - ⚡  I like my coffee without sugar and milk
+
+<!-- WAKATIME_START -->
+<!-- WAKATIME_END -->
 
 <div align="center">
   <a href="https://www.github.com/0xsaksham" target="_blank" rel="noreferrer"><img
