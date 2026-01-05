@@ -18,8 +18,8 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 
 - ⚡  I like my coffee without sugar and milk
 
-<!-- WAKATIME_START -->
-<!-- WAKATIME_END -->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 <div align="center">
   <a href="https://www.github.com/0xsaksham" target="_blank" rel="noreferrer"><img
