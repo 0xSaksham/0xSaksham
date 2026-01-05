@@ -19,6 +19,17 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 - ⚡  I like my coffee without sugar and milk
 
 <!--START_SECTION:wakatime-->
+
+```java
+From: 28 December 2025 - To: 04 January 2026
+
+HTML         25 mins         ⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.19 %
+TypeScript   12 mins         ⣷⣷⣷⣷⣷⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.83 %
+JSON         11 mins         ⣷⣷⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.20 %
+TSConfig     2 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.15 %
+JavaScript   1 min           ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.87 %
+```
+
 <!--END_SECTION:wakatime-->
 
 <div align="center">
