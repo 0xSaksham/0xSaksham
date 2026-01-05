@@ -2,24 +2,21 @@
 
 ## Indie Hacker building production-ready apps
 
-I am a blockchain developer with expertise in StarkNet and Cairo, adept at setting up dev environments, problem-solving, and community engagement, and have broad tech interests including Linux. Communicates effectively with humor.
+I am a Backend developer with expertise in Java SpringBoot and Angular, adept at setting up dev environments, problem-solving, and community engagement, and have broad tech interests including Linux. Communicates effectively with humor.
 
 - 🌍  I'm based in New Delhi, India
 - 🖥️  See my portfolio at [0xsaksham.me](http://0xsaksham.me)
-- ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:sakshamgupta.ai@gmail.com)
-- 🚀  I'm currently working on [1-percent-better](http://1-percent-better.netlify.app)
-- 🧠  I'm learning Cairo Smart Contracts and Building on Starknet
-- 🤝  I'm open to collaborating on Shipping fast and Prod Ready apps on L2 Networks
+- ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:saksham.lets.talk@gmail.com)
+- 🚀  I'm currently working on [expense-tracker](https://github.com/0xSaksham/expense-tracker)
+- 🧠  I'm learning DevOps and Creating Full Stack Java and Angular Project
+- 🤝  I'm open to collaborating on Shipping fast and Prod Ready apps on SpringBoot
 - ⚡  I like my coffee without sugar and milk
 
-<a href="https://www.github.com/0xsaksham" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/0xsaksham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/0xsaksham" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xsaksham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsaksham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.github.com/0xsaksham" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/0xsaksham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/0xsaksham" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+  /></a>
 </div>
 
 ###
@@ -47,8 +44,6 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
@@ -73,8 +68,6 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -85,13 +78,9 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
   <img width="12" />
@@ -103,13 +92,13 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FE7F0A" height="34"></img>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+  <img src="https://devicon-website.vercel.app/api/solidity/plain.svg?color=%235E18B8" height="30" ></img>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
   <img width="12" />
@@ -117,7 +106,13 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="zig logo"  />
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="30"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" height="30"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" height="30"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/selenium/original.svg" height="30"></img>
 </div>
 
 ###
@@ -152,11 +147,5 @@ src="https://img.shields.io/twitter/follow/0xsaksham?logo=twitter&style=for-the-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/0xsaksham/0xsaksham/output/github-snake.svg" />
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xsaksham/count.svg?"  />
-</div>
 
 ###
