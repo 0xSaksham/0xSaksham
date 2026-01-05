@@ -20,46 +20,80 @@ jobs:
         run: pip install requests
 
       - name: Update Latest Project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # <--- IMPORTANT: Authorizes the request
         run: |
           import requests
           import re
           import os
+          import sys
 
           USERNAME = "0xsaksham"
           README_PATH = "README.md"
 
-          # 1. Fetch latest events
+          # 1. Fetch latest events with Authentication
           url = f"https://api.github.com/users/{USERNAME}/events/public"
-          r = requests.get(url)
-          events = r.json()
+          headers = {
+              "Authorization": f"token {os.environ['GITHUB_TOKEN']}",
+              "Accept": "application/vnd.github.v3+json"
+          }
+
+          try:
+              r = requests.get(url, headers=headers)
+              r.raise_for_status() # Raises error if status is 4xx or 5xx
+              events = r.json()
+          except Exception as e:
+              print(f"Error fetching data: {e}")
+              print(f"Response: {r.text if 'r' in locals() else 'None'}")
+              sys.exit(1)
 
           latest_repo_name = "expense-tracker" # Fallback
           latest_repo_url = "https://github.com/0xSaksham/expense-tracker"
+          found = False
 
           # 2. Find the last PushEvent
-          for event in events:
-              if event["type"] == "PushEvent":
-                  latest_repo_name = event["repo"]["name"].split("/")[-1] # remove username/
-                  latest_repo_url = f"https://github.com/{event['repo']['name']}"
-                  break
+          # Ensure events is actually a list before iterating
+          if isinstance(events, list):
+              for event in events:
+                  if event.get("type") == "PushEvent":
+                      repo_data = event.get("repo", {})
+                      latest_repo_name = repo_data.get("name", "").split("/")[-1]
+                      latest_repo_url = f"https://github.com/{repo_data.get('name')}"
+                      found = True
+                      break
+          else:
+              print("API returned unexpected format (not a list).")
 
-          print(f"Latest project found: {latest_repo_name}")
+          if found:
+              print(f"Latest project found: {latest_repo_name}")
+          else:
+              print("No PushEvent found, keeping default/fallback.")
 
           # 3. Read README
-          with open(README_PATH, "r", encoding="utf-8") as file:
-              content = file.read()
+          try:
+              with open(README_PATH, "r", encoding="utf-8") as file:
+                  content = file.read()
+          except FileNotFoundError:
+              print("README.md not found!")
+              sys.exit(1)
 
           # 4. Replace content between markers
+          # This builds the new line
           new_line = f"- 🚀  I'm currently working on [{latest_repo_name}]({latest_repo_url})"
 
+          # Regex to find the block between markers
           pattern = r"(<!-- LATEST_PROJECT_START -->)([\s\S]*?)(<!-- LATEST_PROJECT_END -->)"
-          replacement = f"\\1\n{new_line}\n\\3"
 
-          new_content = re.sub(pattern, replacement, content)
+          if re.search(pattern, content):
+              replacement = f"\\1\n{new_line}\n\\3"
+              new_content = re.sub(pattern, replacement, content)
 
-          # 5. Write back
-          with open(README_PATH, "w", encoding="utf-8") as file:
-              file.write(new_content)
+              # 5. Write back
+              with open(README_PATH, "w", encoding="utf-8") as file:
+                  file.write(new_content)
+              print("README updated successfully.")
+          else:
+              print("Markers <!-- LATEST_PROJECT_START --> not found in README.")
         shell: python
 
       - name: Commit and Push if changed
@@ -85,4 +119,4 @@ jobs:
           CODE_LANG: java
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
-          SHOW_TIME: true 
+          SHOW_TIME: true
