@@ -21,13 +21,13 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 <!--START_SECTION:wakatime-->
 
 ```java
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-Java              1 hr 5 mins     ⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.96 %
-Markdown          19 mins         ⣷⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.37 %
-TypeScript        18 mins         ⣷⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.87 %
-YAML              6 mins          ⣷⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.82 %
-Go                3 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.73 %
+Markdown     19 mins         ⣷⣷⣷⣷⣷⣷⣷⣷⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.30 %
+Java         13 mins         ⣷⣷⣷⣷⣷⣷⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.75 %
+YAML         6 mins          ⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.20 %
+XML          6 mins          ⣷⣷⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.46 %
+Go           3 mins          ⣷⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.71 %
 ```
 
 <!--END_SECTION:wakatime-->
