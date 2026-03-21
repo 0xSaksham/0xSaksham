@@ -10,7 +10,7 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 
 - ✉️  You can contact me at [sakshamgupta.ai@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
-- 🚀  I'm currently working on [designPrinciples](https://github.com/0xSaksham/designPrinciples)
+- 🚀  I'm currently working on [magma](https://github.com/0xSaksham/magma)
 <!-- LATEST_PROJECT_END -->
 - 🧠  I'm learning DevOps and Creating Full Stack Java and Angular Project
 
