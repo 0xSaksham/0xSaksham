@@ -6,7 +6,7 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 
 - 🌍  I'm based in New Delhi, India
 
-- 🖥️  See my blog at [blog.0xsaksham.livr](http://blog.0xsaksham.live)
+- 🖥️  See my blog at [blog.0xsaksham.live](http://blog.0xsaksham.live)
 
 - ✉️  You can contact me at [saksham.lets.talk@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
