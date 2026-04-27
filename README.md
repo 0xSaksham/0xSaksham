@@ -10,7 +10,7 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 
 - ✉️  You can contact me at [saksham.lets.talk@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
-- 🚀  I'm currently working on [ltpi-migrations-0xsaksham](https://github.com/0xSaksham/ltpi-migrations-0xsaksham)
+- 🚀  I'm currently working on [playTo_banyan_flux](https://github.com/0xSaksham/playTo_banyan_flux)
 <!-- LATEST_PROJECT_END -->
 - 🧠  I'm learning DevOps and Creating Full Stack Java and Angular Project
 
