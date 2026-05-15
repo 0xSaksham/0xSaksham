@@ -10,7 +10,7 @@ I am a Backend developer with expertise in Java SpringBoot and Angular, adept at
 
 - ✉️  You can contact me at [saksham.lets.talk@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
-- 🚀  I'm currently working on [expense-tracker](https://github.com/0xSaksham/expense-tracker)
+- 🚀  I'm currently working on [neetcode-submissions](https://github.com/0xSaksham/neetcode-submissions)
 <!-- LATEST_PROJECT_END -->
 - 🧠  I'm learning DevOps and Creating Full Stack Java and Angular Project
 
