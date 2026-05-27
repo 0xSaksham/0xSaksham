@@ -6,7 +6,7 @@ I am a Software Engineer focused on building scalable backend systems, high-thro
 - 🖥️ Read my technical blog at [blog.0xsaksham.live](http://blog.0xsaksham.live)
 - ✉️ Reach me at [saksham.lets.talk@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
-- 🚀  I'm currently working on [0xSaksham](https://github.com/0xSaksham/0xSaksham)
+- 🚀  I'm currently working on [neetcode-submissions](https://github.com/0xSaksham/neetcode-submissions)
 <!-- LATEST_PROJECT_END -->
 - 🧠 Learning advanced DevOps practices and deepening my expertise in systems engineering
 - ⚡ In my free time, I enjoy competitive programming and diving into Linux environments
