@@ -61,13 +61,9 @@ I am a Software Engineer focused on building scalable backend systems, high-thro
 <!--START_SECTION:wakatime-->
 
 ```java
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-TypeScript   7 mins                ⣷⣷⣷⣷⣷⣷⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.82 %
-Python       5 mins                ⣷⣷⣷⣷⣷⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.89 %
-YAML         3 mins                ⣷⣷⣷⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.08 %
-Git Config   2 mins                ⣷⣷⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.66 %
-Docker       1 min                 ⣷⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.73 %
+Java   15 mins               ⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷   100.00 %
 ```
 
 <!--END_SECTION:wakatime-->
