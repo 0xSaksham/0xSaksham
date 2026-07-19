@@ -6,7 +6,7 @@ I am a Software Engineer focused on building scalable backend systems, high-thro
 - 🖥️ Read my technical blog at [blog.0xsaksham.live](http://blog.0xsaksham.live)
 - ✉️ Reach me at [saksham.lets.talk@gmail.com](mailto:saksham.lets.talk@gmail.com)
 <!-- LATEST_PROJECT_START -->
-- 🚀  I'm currently working on [kiddo-sdui-engine](https://github.com/0xSaksham/kiddo-sdui-engine)
+- 🚀  I'm currently working on [expense-tracker](https://github.com/0xSaksham/expense-tracker)
 <!-- LATEST_PROJECT_END -->
 - 🧠 Learning advanced DevOps practices and deepening my expertise in systems engineering
 - ⚡ In my free time, I enjoy competitive programming and diving into Linux environments
